@@ -1,5 +1,4 @@
 Name: Samuel Gibson
-WSU ID: 011773716
 
 IMPLEMENTED FEATURES:
 
